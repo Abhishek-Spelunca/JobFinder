@@ -38,7 +38,7 @@
                 android:textColor="@color/lavender"
                 android:textSize="24dp" />
             /// <summary>
-            /// Provides functionality to create and send e-mails.
+            /// Provides functionality to to to  create and send e-mails.
             /// </summary>
 
             <ImageView
